@@ -3,7 +3,7 @@
 👨🏻‍💻 Game Developer <br>
 🌍 Based in Rio de Janeiro, Brazil<br><br>
 
-## 🔗 Links úteis:
+## 🌐 Conecte-se Comigo:
  
   <a href="mailto:kaykerodrigomg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
