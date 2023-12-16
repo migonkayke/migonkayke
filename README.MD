@@ -1,6 +1,6 @@
 # Ei, seja bem-vindo(a)! Eu sou Kayke Migon
 
-👨🏻‍💻 Game Developer<br>
+👨🏻‍💻 Indie gamedev<br>
 🌍 Based in Rio de Janeiro, Brazil<br>
 
 ## 🌐 Conecte-se Comigo:
